@@ -1,2 +1,2 @@
 # chispaszgz.github.io
-pa ver
+pa ver 2
